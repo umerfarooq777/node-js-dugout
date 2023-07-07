@@ -1,0 +1,14 @@
+REST API SERVER
+
+DONE GET :8000/api/users             --- list of all users
+DONE GET :8000/api/user/1            --- get user by id
+DONE GET :8000/api/user/2            --- get user by id
+
+
+POST :8000/api/user             --- create new user
+
+
+PATCH :8000/api/user/:id        --- update user data by id
+
+
+DELETE :8000/api/user/:id       --- delete user data by id
