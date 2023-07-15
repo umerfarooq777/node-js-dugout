@@ -74,7 +74,7 @@ USERS.push({id:USERS.length+1,...body});
 
 fs.writeFile("./MOCK_DATA.json",JSON.stringify(USERS),(err,data)=>{
 
-  return res.json({status:"user created", id :USERS.length});
+  return res.status(201).json({status:"user created", id :USERS.length});
 })
 });
 
