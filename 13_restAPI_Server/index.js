@@ -5,8 +5,14 @@ const USERS = require("./MOCK_DATA.json");
 const app = express();
 const port = 8000;
 
+//=============== MIDDLEWARE
 app.use(express.urlencoded({extended:false}));
 
+app.use((req,res,next)=>{
+  console.log("M1");
+  // return res.json({status:"Hello M1"});
+  next();
+});
 
 
 
