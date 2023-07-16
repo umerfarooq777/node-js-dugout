@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "first_name": "Lindsey",
+    "last_name": "Szymanski",
+    "email": "lszymanski0@yellowpages.com",
+    "gender": "Male"
+  },
+  {
+    "id": 2,
+    "first_name": "Manolo",
+    "last_name": "Helleker",
+    "email": "mhelleker1@time.com",
+    "gender": "Male"
+  },
+  {
+    "id": 3,
+    "first_name": "Ludvig",
+    "last_name": "Costock",
+    "email": "lcostock2@imdb.com",
+    "gender": "Male"
+  },
+  {
+    "id": 4,
+    "first_name": "Lucine",
+    "last_name": "Pickring",
+    "email": "lpickring3@weather.com",
+    "gender": "Female"
+  },
+  {
+    "id": 5,
+    "first_name": "Jodi",
+    "last_name": "Rolland",
+    "email": "jrolland4@army.mil",
+    "gender": "Male"
+  },
+  {
+    "id": 6,
+    "first_name": "Umer 2",
+    "last_name": "Farooq",
+    "email": "uf80902@gmail.com",
+    "gender": "Male"
+  },
+  {
+    "id": 7,
+    "first_name": "Umer 7 Upd",
+    "last_name": "Farooq",
+    "email": "new@gmail.com",
+    "gender": "Male"
+  }
+]
